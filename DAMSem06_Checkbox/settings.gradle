@@ -12,6 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "DAMSem06_Botones"
-include ':app'
+rootProject.name = "DAMSem06_Checkbox"
 include ':app'
